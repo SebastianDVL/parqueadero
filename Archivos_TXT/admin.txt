@@ -1,0 +1,19 @@
+Admin:
+=> Ingresar
+=> Editarlo
+=> Buscar
+
+Admin{
+    id:
+    nombre:
+    cc:
+    turno:
+    telefono:
+    estado:
+    salario:
+}
+
+1. GET BUSCAR TODOS 
+2. GET DE BUSCAR POR ID
+3. POST INSERTAR
+4. PUT EDITAR

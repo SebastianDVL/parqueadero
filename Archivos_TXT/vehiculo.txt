@@ -1,0 +1,20 @@
+Vehiculo:
+=> Ingresar
+=> Editarlo
+=> Buscar
+
+Vehiculo{
+    id:
+    placa:
+    fechaIngreso:
+    fechaSalida:
+    idCelda:
+    descripcion:
+    totalPagar:
+
+}
+
+1. GET BUSCAR TODOS 
+2. GET DE BUSCAR POR ID
+3. POST INSERTAR
+4. PUT EDITAR
